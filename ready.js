@@ -118,8 +118,6 @@ window.onload = function () {
 
             if (allowY)
                 currentElem.style.top = newY + "px";
-
-            console.log();
         };
 
         //  проверка на столкновение правой стороны с другим эл-том
