@@ -1,3 +1,3 @@
 # TagGame
-Simple tag game
+Simple tag game.
 Clone and run html file
